@@ -13,4 +13,5 @@
 
 	*/
 ?>
-<a href="testingphp/">Test a PHP connection</a>
+<a href="testingphp/">Test a PHP connection</a> <br />
+<a href="/charts/samples/">Chart demonstration </a> <br />
